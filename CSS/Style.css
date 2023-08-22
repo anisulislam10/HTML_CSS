@@ -1,0 +1,62 @@
+
+body{
+    /*
+    background-color: burlywood;
+    */
+    background-image: url(https://i.pinimg.com/736x/11/67/c1/1167c1a634a0f3044ab45108e7b68f31.jpg);
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+h1,h2,p{
+    text-align: center;
+    
+}
+.menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.Estab {
+    font-style: italic;
+}
+h1,h2{
+    font-family: Impact;
+
+}
+
+.iteam p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.flavor, .desert {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+hr{
+    height: 3px;
+    background-color: brown;
+    border-color:brown ;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10%;
+  }
